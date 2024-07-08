@@ -1,1 +1,1 @@
-*** https://github.com/hidogchristoofar/Social-scapers
+https://github.com/hidogchristoofar/Social-scapers
